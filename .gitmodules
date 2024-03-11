@@ -1,0 +1,12 @@
+[submodule "mobileModule00"]
+	path = mobileModule00
+	url = https://github.com/chanheki/mobileModule00.git
+[submodule "mobileModule01"]
+	path = mobileModule01
+	url = https://github.com/chanheki/mobileModule01.git
+[submodule "mobileModule02"]
+	path = mobileModule02
+	url = https://github.com/chanheki/mobileModule02.git
+[submodule "mobileModule03"]
+	path = mobileModule03
+	url = https://github.com/chanheki/mobileModule03.git
